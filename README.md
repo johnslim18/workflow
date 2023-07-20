@@ -17,6 +17,8 @@
         git push -u origin master
 
  - Browse to the repository on GitHub.com and reload the page to confirm the files have been properly pushed.
+ 
+ -this is change to commit 
 
 Once the files are hosted on GitHub.com, you're ready to start making changes locally and pushing them to the remote repo.
 "# workflow" 
